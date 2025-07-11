@@ -21,9 +21,8 @@ A coding and debugging enthusiast here; amid the journey of gaining expirence th
 ##  🌱 Currently
 One is now amid the the exploration of backend development while studying MEN stack. All of which to gain the skills required to participate on hands-on projects.
 <br>
-<br>
 
 
-
-[<img src="linkedin.png" width="25" height="25"   style="vertical-align:middle; margin-left:45%;">](www.linkedin.com/in/kawthar-mohammad)
-[<img src="email.png" width="25" height="25" style="vertical-align:middle;">](mailto:someone@example.com)
+## 📮 Find Me
+Linkedin: [www.linkedin.com/in/kawthar-mohammad](www.linkedin.com/in/kawthar-mohammad) <br>
+Email: [Kawtharr.m.ahmad@gmail.com](mailto:someone@example.com)
