@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <img src="profile.png"  style="vertical-align:middle;">
 
-A coding and debugging enthusiast here; amid the journey of gaining expirence through hands-on projects. Following a solid foundation in HTML, CSS , and Javascript, one is exploring futher.
+A coding and debugging enthusiast here; amid the journey of gaining experience through hands-on projects. Following a solid foundation in HTML, CSS , and Javascript, one is exploring futher.
 
 ##  🌱 Currently
 One is now amid the the exploration of backend development while studying MEN stack. All of which to gain the skills required to participate on hands-on projects.
