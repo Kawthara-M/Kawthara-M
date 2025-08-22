@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 A coding and debugging enthusiast here; amid the journey of gaining experience through hands-on projects. Following a solid foundation in HTML, CSS , Javascript, & MEN Stack one is exploring futher.
 
 ##  🌱 Currently
-Post stabling grounds in back-end development, one is currently working on adding the <b>R</b> of React to the MEN Stack. After sharepening enough skills, one looks forward to implementing them in hands-on projects.
+Post stabling one's grounds in back-end development, one is currently working on polishing the skills <b>R</b> of React in the MEN Stack field. Also, one is taking a learning adventure in Django field.
 <br>
 
 
